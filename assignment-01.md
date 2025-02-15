@@ -11,7 +11,7 @@ In this assignment, you will learn more about asymptotic notation, parallelism, 
 1. (2 pts ea) **Asymptotic notation** (12 pts)
 
   - 1a. Is $2^{n+1} \in O(2^n)$? Why or why not? 
-$2^{n+1} \in O(2^n)$ is true because 2^(n+1) is the same as 2*2^(n+1), so there exists some value c, such that c*2^(n+1) > 2*2^(n+1), such as 
+$2^{n+1} \in O(2^n)$ is true because 2^(n+1) is the same as $2*2^(n+1)$, so there exists some value c, such that c*2^(n+1) > 2*2^(n+1), such as 
 c = 3
 .  
 .  
