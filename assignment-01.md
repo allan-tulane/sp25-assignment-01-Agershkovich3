@@ -10,8 +10,7 @@ In this assignment, you will learn more about asymptotic notation, parallelism, 
 
 1. (2 pts ea) **Asymptotic notation** (12 pts)
 
-  - 1a. Is $2^{n+1} \in O(2^n)$? Why or why not?  /n
-$2^{n+1} \in O(2^n)$ is true because $2^(n)$ is equal to 2 times 2^(n), so there exists some value c, such that c2^(n) > 2 times 2^(n), so c must be greater than 2, such as c = 3
+  - 1a. Is $2^{n+1} \in O(2^n)$? Why or why not? 
 .  
 .  
 .  
